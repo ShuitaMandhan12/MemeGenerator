@@ -1,5 +1,10 @@
 Meme Generator - Frontend Project 🚀
-Meme Generator Preview (Replace with actual preview image)
+Meme Generator Preview 
+![image](https://github.com/user-attachments/assets/d285a604-c232-491f-af49-29376d7c312a)
+
+![image](https://github.com/user-attachments/assets/75ecfb85-240b-4aee-b033-78f6c95d7778)
+
+![image](https://github.com/user-attachments/assets/17a09526-4ce2-4c36-9f6f-7cef81669a00)
 
 🌟 Introduction
 Welcome to the Meme Generator - a fun, interactive web application that lets anyone create and share hilarious memes in seconds! Built with React and modern web technologies, this project combines creativity with technical innovation to bring joy to internet culture.
