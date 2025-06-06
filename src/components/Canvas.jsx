@@ -2,7 +2,7 @@ import { useState, useEffect, useRef, forwardRef, useImperativeHandle } from 're
 import { fabric } from 'fabric';
 import MemeOfDayModal from './MemeOfDayModal';
 import CanvasGuides from './CanvasGuides';
-import CanvasGuides from './CanvasGuides';
+
 
 const Canvas = forwardRef(({ 
   showMemeOfDay, 
